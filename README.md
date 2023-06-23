@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently Working on Frontends.<br>🌱 I’m currently learning more about React.<br>👯 I’m looking to collaborate on Youtube.<br>🤔 I’m looking for help with Next.JS documentation.<br>💬 Ask me about Nodejs or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+😄 Pronouns: He/His<br>🔭 I’m currently Working on MERN Stack.<br>🌱 I’m currently learning more about React.<br>🤔 I’m looking for help with Next.JS documentation.<br>💬 Ask me about Nodejs or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
 ## 🌐 Socials:
